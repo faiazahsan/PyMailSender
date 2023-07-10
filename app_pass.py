@@ -1,0 +1,1 @@
+app_password = ' ' #Type in the app password generted by Gmail here. I removed mine for security reasons.
